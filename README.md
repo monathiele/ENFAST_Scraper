@@ -3,7 +3,7 @@ Using scrapy on ENFAST Europe’s Most Wanted List
 
 ENFAST publishes a list of most wanted criminals here: https://eumostwanted.eu/
 
-Tasks
+### Tasks
 1) use some web extraction technique to extract information from each individual on the list.
 2) the script should contain some error logging, making it possible to trace errors by reading the
 log file
