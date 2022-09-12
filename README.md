@@ -1,4 +1,4 @@
-# scraper_ENFAST
+# Scraper_ENFAST
 Using scrapy on ENFAST Europe’s Most Wanted List
 
 ENFAST publishes a list of most wanted criminals here: https://eumostwanted.eu/
